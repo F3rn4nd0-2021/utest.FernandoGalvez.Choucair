@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="uTest" skipped="0" tests="1" time="50.84" timestamp="2021-10-02 12:47:31"><testcase name="Sing up to www.utest.com"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+utest.fernandogalvez.tasks.Register.performAs(Register.java:72)&#13;
+utest.fernandogalvez.stepdefinitions.UTestStepDefinitions.heIntroducesHisPersonalData(UTestStepDefinitions.java:41)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
